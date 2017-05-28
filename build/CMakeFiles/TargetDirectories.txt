@@ -1,0 +1,3 @@
+/home/cather/C/build/CMakeFiles/edit_cache.dir
+/home/cather/C/build/CMakeFiles/rebuild_cache.dir
+/home/cather/C/build/CMakeFiles/cdn.dir
